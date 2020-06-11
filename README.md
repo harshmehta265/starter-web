@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Purpose2
 
 Sample website with plenty of files for demos two
+
+### Copyright
+copyright text goes here
