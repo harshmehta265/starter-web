@@ -12,3 +12,9 @@ Sample website with plenty of files for demos two
 
 ### Copyright
 copyright text goes here
+
+### Copyright two
+copyright text goes here
+
+### Copyright three
+copyright text goes here
